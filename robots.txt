@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apexplumbercerritos.com/sitemap.xml
