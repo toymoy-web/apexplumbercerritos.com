@@ -80,6 +80,10 @@ nav{background:#fff;box-shadow:0 1px 0 var(--line);position:sticky;top:0;z-index
 .badge-alt:before{content:"\25CF";color:var(--coral);font-size:10px}
 .zips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .zip-chip{display:inline-flex;align-items:center;background:var(--storm-d);color:#fff;font-weight:700;font-size:13px;padding:6px 13px;border-radius:100px;letter-spacing:.3px}
+.service-photo{width:100%;max-height:420px;object-fit:cover;border-radius:14px;margin:26px 0 6px;display:block}
+.footer-social{display:flex;flex-wrap:wrap;gap:14px;margin-top:14px}
+.footer-social a{font-size:13px;font-weight:600;opacity:.85}
+.footer-social a:hover{opacity:1;text-decoration:underline}
 .hero h1{font-size:clamp(1.9rem,4.2vw,2.9rem);line-height:1.1;margin-bottom:16px;color:var(--ink)}
 .hero h1 span{color:var(--coral)}
 .hero p{color:var(--gray);font-size:17px;max-width:480px;margin-bottom:24px}
