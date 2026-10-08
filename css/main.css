@@ -301,3 +301,5 @@ footer a:hover{color:var(--coral)}
   .footer-grid{grid-template-columns:1fr}
   .pricebox{flex-direction:column;align-items:flex-start}
 }
+
+.sign-photo{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:12px;margin:0 0 14px;display:block}
